@@ -20,7 +20,7 @@ com.rabo.statementprocessor project:
 
 FileReader Package:
 
-This package consists of two classes
+This package consists of four  classes
 
 csv file reader : csv file reader class implements Fileprocessor interface and reads the csv file.
 
